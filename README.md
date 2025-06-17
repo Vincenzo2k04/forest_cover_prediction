@@ -79,7 +79,3 @@ The best performing model was **Random Forest with enhancements**, achieving ove
 - UCI ML Repository: [Forest Cover Type Dataset](https://archive.ics.uci.edu/ml/datasets/Covertype)
 - Scikit-learn Documentation
 - XGBoost Documentation
-
-## 👨‍💻 Author
-
-- [Your Name](https://github.com/your-username)
